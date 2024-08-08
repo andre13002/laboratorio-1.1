@@ -10,7 +10,8 @@ Estos códigos creados nos ayudan a visualizar una señal de un electrocardiogra
 ![WhatsApp Image 2024-08-08 at 2 42 38 PM](https://github.com/user-attachments/assets/19dc7bab-e36f-4c52-b19d-9edfe119a453)
 
 4.⁠ ⁠Luego realizamos lo mismo pero con el método de las funciones de Python y esto lo podemos visualizar en el archivo: fórmulas estadísticas con funciones de Python. 
-![WhatsApp Image 2024-08-08 at 2 44 22 PM](https://github.com/user-attachments/assets/d4e2777c-eb86-4bc2-ad81-7efcf874b8cf)
+
+![WhatsApp Image 2024-08-08 at 2 47 44 PM](https://github.com/user-attachments/assets/90ba7eff-6dbe-43ae-adef-c234af4979f8)
 
 5.⁠ ⁠Por último queríamos contaminar la señal con diferentes tipos de ruidos esto se hizo llamando nuevamente la señal normal, generando el ruido y agregándolo a la señal normal, luego analizamos el SRN que es la señal a ruido para así medir la calidad de nuestra señal.-RUIDO GAUSSIANO, RUIDO  IMPULSIVO, RUIDO TIPO ARTEFACTO: estos ruidos los agregamos con la intención de analizar la simulación en condiciones reales debido a que ayudan a simular las interferencias de dichas condiciones, ayuda a analizar la capacidad de precisión de la señal y su sensibilidad con relación a las perturbaciones. Esto lo podemos visualizar en el archivo llamado: Ruidos
 
