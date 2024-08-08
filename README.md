@@ -1,5 +1,6 @@
 Estos códigos creados nos ayudan a visualizar una señal de un electrocardiograma fetal, que lo que muestra básicamente es la señal eléctrica del corazón del feto durante el embarazo.
 1.⁠ ⁠Lo primero que se realizó fue descargar la señal del software physionet. En  github podemos evidenciar los dos archivos del mismo: .dat y .hea 
+
 ![WhatsApp Image 2024-08-08 at 2 41 47 PM](https://github.com/user-attachments/assets/1d6ac7b2-09aa-46c0-b636-e40e42fbba3b)
 
 2.⁠ ⁠Lo segundo que se hizo fue graficar dicha señal en spyder este sería el archivo de nombre gráficadelaseñalnormal donde vemos la señal fetal 
@@ -10,3 +11,7 @@ Estos códigos creados nos ayudan a visualizar una señal de un electrocardiogra
 
 4.⁠ ⁠Luego realizamos lo mismo pero con el método de las funciones de Python y esto lo podemos visualizar en el archivo: fórmulas estadísticas con funciones de Python. 
 5.⁠ ⁠Por último queríamos contaminar la señal con diferentes tipos de ruidos esto se hizo llamando nuevamente la señal normal, generando el ruido y agregándolo a la señal normal, luego analizamos el SRN que es la señal a ruido para así medir la calidad de nuestra señal.-RUIDO GAUSSIANO, RUIDO  IMPULSIVO, RUIDO TIPO ARTEFACTO: estos ruidos los agregamos con la intención de analizar la simulación en condiciones reales debido a que ayudan a simular las interferencias de dichas condiciones, ayuda a analizar la capacidad de precisión de la señal y su sensibilidad con relación a las perturbaciones. Esto lo podemos visualizar en el archivo llamado: Ruidos
+
+![WhatsApp Image 2024-08-08 at 2 43 29 PM](https://github.com/user-attachments/assets/35dc0787-0a11-42d8-a8d3-f38033d779bc)
+![WhatsApp Image 2024-08-08 at 2 43 12 PM](https://github.com/user-attachments/assets/49e2b739-acd4-4407-ba41-a3883603b7b8)
+![WhatsApp Image 2024-08-08 at 2 43 01 PM](https://github.com/user-attachments/assets/20e843da-5250-40ba-8dd3-6cb537db8769)
