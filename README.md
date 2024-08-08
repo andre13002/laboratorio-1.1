@@ -19,4 +19,6 @@ Estos códigos creados nos ayudan a visualizar una señal de un electrocardiogra
 ![WhatsApp Image 2024-08-08 at 2 43 29 PM](https://github.com/user-attachments/assets/35dc0787-0a11-42d8-a8d3-f38033d779bc)
 ![WhatsApp Image 2024-08-08 at 2 43 12 PM](https://github.com/user-attachments/assets/49e2b739-acd4-4407-ba41-a3883603b7b8)
 ![WhatsApp Image 2024-08-08 at 2 43 01 PM](https://github.com/user-attachments/assets/20e843da-5250-40ba-8dd3-6cb537db8769)
+
+
 ![WhatsApp Image 2024-08-08 at 2 44 22 PM](https://github.com/user-attachments/assets/f236a6f3-7950-4bb5-85d4-2282713199a2)
