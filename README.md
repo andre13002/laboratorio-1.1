@@ -1,5 +1,7 @@
 Estos códigos creados nos ayudan a visualizar una señal de un electrocardiograma fetal, que lo que muestra básicamente es la señal eléctrica del corazón del feto durante el embarazo.
 1.⁠ ⁠Lo primero que se realizó fue descargar la señal del software physionet. En  github podemos evidenciar los dos archivos del mismo: .dat y .hea 
+
+
 2.⁠ ⁠Lo segundo que se hizo fue graficar dicha señal en spyder este sería el archivo de nombre gráficadelaseñalnormal donde vemos la señal fetal 
 
 
